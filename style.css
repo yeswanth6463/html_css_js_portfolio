@@ -9,6 +9,10 @@
 }
 body{
     font-family: "poppins",sans-serif;
+    background: linear-gradient(rgba(7, 168, 243, 0.3),rgba(222, 8, 8, 0.4));
+    background-size: cover;
+    background-position: fixed;
+    flex-direction: column;
 }
 html{
     scroll-behavior: smooth;
@@ -418,5 +422,5 @@ footer{
 }
 
 footer p{
-    text-align: center;
+    text-align: ;
 }

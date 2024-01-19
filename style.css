@@ -227,6 +227,7 @@ section{
 .btn-color-1,
 .btn-color-2{
     border: rgb(40, 38, 38) 0.1rem solid;
+    
 }
 
 .btn-color-1:hover,
@@ -358,8 +359,8 @@ article.icon{
 
 .project-img{
     border-radius: 2rem;
-    width: 90%;
-    height: 90%;
+    width: 80%;
+    height: 80%;
 }
 
 .project-title{

@@ -14,6 +14,7 @@ body{
     background-size: cover;
     background-position: fixed;
     flex-direction: column;
+
 }
 html{
     scroll-behavior: smooth;
@@ -47,8 +48,8 @@ nav {
     gap:2rem;
     list-style: none;
     font-size: 1.5rem;
-
 }
+
 
 a{
     color:black;

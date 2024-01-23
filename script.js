@@ -176,3 +176,4 @@ window.addEventListener("DOMContentLoaded",() => {
         document.ontouchmove = moove;
       }
   })
+ 

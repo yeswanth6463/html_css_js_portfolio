@@ -10,11 +10,11 @@
 }
 body{
     font-family: "poppins",sans-serif;
-    background: linear-gradient(to right, rgba(242, 239, 239, 0.527),rgba(248, 246, 246, 0.862) 100%);
+    background:white ;
     background-size: cover;
     background-position: fixed;
     flex-direction: column;
-
+    
 }
 html{
     scroll-behavior: smooth;
@@ -48,6 +48,11 @@ nav {
     gap:2rem;
     list-style: none;
     font-size: 1.5rem;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    color: #333;
 
 }
 

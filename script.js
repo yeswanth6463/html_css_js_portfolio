@@ -184,10 +184,10 @@ ScrollReveal({
     /*reset: true, */
      distance:'80px',
      duration: 2000,
-     delay: 250
+     delay: 200
    });
-   ScrollReveal().reveal('.section_text, .heading', { origin: 'top' });
-   ScrollReveal().reveal('.section_pic-container, .heading, .title', { origin: 'left' });
+   ScrollReveal().reveal('.section_text, .heading,.nav-links', { origin: 'top' });
+   ScrollReveal().reveal('.section_pic-container, .heading, .title,.logo', { origin: 'left' });
    ScrollReveal().reveal('.details-container, .contact-info-upper-container,.nav-links-container,.section_text_p2', { origin: 'bottom' });
    
    

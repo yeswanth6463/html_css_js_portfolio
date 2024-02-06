@@ -187,11 +187,11 @@ ScrollReveal({
      delay: 200
    });
    ScrollReveal().reveal('.section_text, .heading,.nav-links', { origin: 'top' });
-   ScrollReveal().reveal('.section_pic-container, .heading, .title,.logo', { origin: 'left' });
+   ScrollReveal().reveal('.heading, .title,.logo', { origin: 'left' });
    ScrollReveal().reveal('.details-container, .contact-info-upper-container,.nav-links-container,.section_text_p2', { origin: 'bottom' });
    
    
    ScrollReveal().reveal('.text-container, .about-img img', { origin: 'right' });
    
-   ScrollReveal().reveal('.home-content h3, .home-content p, .about-content,.section_text_p1', { origin: 'right' });
+   ScrollReveal().reveal('.home-content h3, .home-content p, .about-content,.section_text_p1,.hamburger-menu', { origin: 'right' });
    

@@ -10,10 +10,10 @@
     --background-color: rgb(255, 255, 255);
     --secondary-color: rgb(212, 68, 68);
     --secondary-color-2: rgb(85, 85, 85);
-    --button-background: rgb(53, 53, 53);
+    --button-background: rgb(32, 3, 3);
     --button-text-hover: grey;
     --button-border: rgb(53, 53, 53) 0.1rem solid;
-    --button-border-2: rgb(255, 255, 255) 0.1rem solid;
+    --button-border-2: rgb(187, 139, 139) 0.1rem solid;
     --container-border: rgb(163, 163, 163);
 }
 
@@ -24,12 +24,12 @@
     --primary-color-3: rgb(200, 191, 191);
     --background-color: rgb(33, 33, 33);
     --secondary-color: white;
-    --secondary-color-2: rgb(170, 170, 170);
-    --button-background: rgb(202, 202, 202);
-    --button-text-hover: lightgrey;
+    --secondary-color-2: rgb(225, 88, 88);
+    --button-background: rgb(241, 25, 25);
+    --button-text-hover: rgb(233, 19, 19);
     --button-border: rgb(202, 202, 202) 0.1rem solid;
     --button-border-2: rgb(0, 0, 0) 0.1rem solid;
-    --container-border: rgb(92, 92, 92);
+    --container-border: rgb(240, 88, 88);
 }
 
 *{
